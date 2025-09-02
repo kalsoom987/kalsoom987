@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kalsoom45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kalsoom-irshad-9a32a622a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalsoomirshad274@gmail.com) [LabLab.ai Profile](https://lablab.ai/u/@kalsoom_irshad?_gl=1*47oauk*_up*MQ..*_ga*MTQ3MjA1MTc0My4xNzU2ODEyMDg3*_ga_0DKXC1L0Y7*czE3NTY4MTIwODYkbzEkZzAkdDE3NTY4MTIwODYkajYwJGwwJGgyMTIxNjQ0NzQ0)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kalsoom45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kalsoom-irshad-9a32a622a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalsoomirshad274@gmail.com) [LabLab.ai](https://lablab.ai/u/@kalsoom_irshad?_gl=1*47oauk*_up*MQ..*_ga*MTQ3MjA1MTc0My4xNzU2ODEyMDg3*_ga_0DKXC1L0Y7*czE3NTY4MTIwODYkbzEkZzAkdDE3NTY4MTIwODYkajYwJGwwJGgyMTIxNjQ0NzQ0)
 
 
 
