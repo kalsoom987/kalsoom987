@@ -6,7 +6,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kalsoom45) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kalsoom-irshad-9a32a622a/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalsoomirshad274@gmail.com) 
-[<img src="lablab.webp" alt="LabLab.ai" width="22" />](https://lablab.ai/u/@kalsoom_irshad)
+[<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/lablabai.jpg" alt="LabLab.ai" width="22" />](https://lablab.ai/u/@kalsoom_irshad)
+
 
 
 
