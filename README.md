@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👋 Hi there, I'm Kalsoom Irshad!  <br>I'm a passionate React Native Developer with 6+ months of professional experience in building cross-platform mobile applications. I enjoy creating smooth, user-friendly, and high-performance apps with clean architecture and modern UI practices.  <br><br>⚡ Tech Stack: JavaScript | TypeScript | React Native | Redux Toolkit | Firebase | Next.js  <br>🎯 Interests: Mobile App Development, UI/UX, and Scalable App Architectures  <br><br>🔭 Currently working on: Mobile applications with React Native  <br>🌱 Currently learning: Advanced animations & backend integrations with Firebase  <br>💬 Ask me about: React Native, State Management, API Integrations, Mobile App UI/UX  <br>📫 How to reach me: kalsoomirshad274@gmail.com  <br>😄 Pronouns: She/Her  <br>
 
 
